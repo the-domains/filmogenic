@@ -1,8 +1,8 @@
 name: Filmogenic
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
-title: Are you readY?
+typography_spectrum: 0.5
+title: Are you filmogenic?
 cta:
   domain: null
   bucket: null
