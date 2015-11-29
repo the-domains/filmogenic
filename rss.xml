@@ -4,7 +4,7 @@
         <description><![CDATA[Are you readY?]]></description>
         <link>https://thegrid.ai/filmogenic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 18:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 19:00:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/filmogenic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://brianwhall.com/</link>
             <guid isPermaLink="false">27fb6cfd-c111-47f8-b5da-ed27db9500c9</guid>
             <pubDate>Sun, 29 Nov 2015 18:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.vimeocdn.com/video/538766480_150x84.jpg">]]></description>
+            <link>https://thegrid.ai/filmogenic/964b2e3c-c1ac-4d36-9ae4-3c5467e8c027/index.html</link>
+            <guid isPermaLink="false">964b2e3c-c1ac-4d36-9ae4-3c5467e8c027</guid>
+            <pubDate>Sun, 29 Nov 2015 19:00:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vimeo test]]></title>
