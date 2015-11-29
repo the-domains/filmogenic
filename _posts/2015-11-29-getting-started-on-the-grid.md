@@ -1,26 +1,29 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: Leta do it.
+datePublished: '2015-11-29T18:53:48.340Z'
+dateModified: '2015-11-29T18:51:01.652Z'
+title: 'Welcome to WC. No our company is not names Water Closet, although that would be cool if you know what a water closet is because they only call a bathroom that in Europe and Europe is amazing. We are Withington Collective.'
 author: []
-datePublished: '2015-11-29T18:22:31.148Z'
-dateModified: '2015-11-29T18:18:52.745Z'
 sourcePath: _posts/2015-11-29-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
-
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
-
-## Creating a Site
-
-From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
+# Welcome to WC. No our company is not names Water Closet, although that would be cool if you know what a water closet is because they only call a bathroom that in Europe and Europe is amazing. We are Withington Collective.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
 
 The name you choose during site creation will also be your domain (thegrid.ai/SiteName). Choose something cool, but don't stress over it -- you can change it later.
@@ -135,3 +138,4 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Send us a message via the "Help" link.
 * Email us at feedback@thegrid.io
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c1a2c7b-9312-4308-b4ad-7464c7037336.JPG)
