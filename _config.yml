@@ -1,7 +1,7 @@
 name: Filmogenic
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5
+typography_spectrum: 0.13024
 title: Are you filmogenic?
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#000002'
     - '#cccbcf'
     - '#36353a'
-  brandStrength: 0.8890468198806047
-  lightness: 0.3601207009050995
-  saturation: 0.3346275808289647
-  rhythmicContrast: 0.31812726240605116
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
