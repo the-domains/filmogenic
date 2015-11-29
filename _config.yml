@@ -1,6 +1,6 @@
 name: Filmogenic
 favicon: null
-layout_spectrum: 0.2845625407062471
+layout_spectrum: 1
 typography_spectrum: 0.7355372777674347
 title: Are you readY?
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040406'
-    - '#d6dcdc'
-    - '#23408a'
-    - '#8e0007'
-    - '#887d67'
+    - '#ffffff'
+    - '#42aef9'
+    - '#000002'
+    - '#cccbcf'
+    - '#36353a'
   brandStrength: 0.8890468198806047
   lightness: 0.3601207009050995
   saturation: 0.3346275808289647
