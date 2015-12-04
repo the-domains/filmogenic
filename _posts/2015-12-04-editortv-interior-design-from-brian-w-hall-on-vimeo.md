@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/134240688'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: EditorTV Interior Design from Brian W. Hall on Vimeo.
-datePublished: '2015-12-04T00:41:05.067Z'
-dateModified: '2015-12-04T00:40:57.445Z'
+datePublished: '2015-12-04T00:41:11.485Z'
+dateModified: '2015-12-04T00:41:08.095Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-04-editortv-interior-design-from-brian-w-hall-on-vimeo.md
