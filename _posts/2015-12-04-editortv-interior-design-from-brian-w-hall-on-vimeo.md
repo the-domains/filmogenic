@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/134240688'
+inLanguage: null
+starred: false
+keywords: []
 description: EditorTV Interior Design from Brian W. Hall on Vimeo.
+datePublished: '2015-12-04T00:41:05.067Z'
+dateModified: '2015-12-04T00:40:57.445Z'
 author: []
-datePublished: '2015-12-04T00:37:45.983Z'
-publisher:
-  domain: vimeo.com
-  name: vimeo.com
-dateModified: '2015-12-04T00:37:03.192Z'
 title: ''
 sourcePath: _posts/2015-12-04-editortv-interior-design-from-brian-w-hall-on-vimeo.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: editortv-interior-design-from-brian-w-hall-on-vimeo/index.html
+authors: []
+publisher:
+  name: vimeo.com
+  domain: vimeo.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
@@ -21,7 +27,7 @@ _type: Article
 
 EditorTV Interior Design from [Brian W. Hall][0] on [Vimeo][1].
 
-
+Heres a cool video I shot for Editor at Large on Interior design.
 
 [0]: https://vimeo.com/brianwhall
 [1]: https://vimeo.com/
