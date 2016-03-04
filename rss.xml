@@ -4,7 +4,7 @@
         <description><![CDATA[Are you filmogenic?]]></description>
         <link>https://thegrid.ai/filmogenic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 21:37:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/filmogenic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,7 +22,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Intrigue (Production Company) 1640 5th Street Suite 118, Santa Monica, CA 90401, United States Phone: 310-598-7000  Fax: (310) 598-2906 Email: tariq.jalil@intri</p>]]></description>
+            <description><![CDATA[<p>https://vimeo.com/155260326</p>]]></description>
+            <link>https://thegrid.ai/filmogenic/7ca80613-83a2-43e0-a246-c48e354a2ac6/index.html</link>
+            <guid isPermaLink="false">7ca80613-83a2-43e0-a246-c48e354a2ac6</guid>
+            <pubDate>Fri, 04 Mar 2016 21:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Intrigue (Production Company) 1640 5th Street Suite 118, Santa Monica, CA 90401, United States Phone: 310-598-7000  Fax: (310) 598-2906 Email: tariq.jalil@intrigueent.com Exhibit A (Associate Production Company) 1345 Seward St., Los Angeles, CA 90028, United States Phone: (424) 240-9036 Email: asst@exhibitafilm.com Sony Pictures Television (Associate Production Company) 10202 W. Washington Blvd., Culver City, CA 90232, United States Phone: 310-244-4000 ABC Studios (Distributor) 500 S. Buena Vista St., Burbank, CA 91521, United States Phone: (818) 560-1000 URL: http://www.abcstudiosmedianet.com/</p>]]></description>
             <link>https://thegrid.ai/filmogenic/intrigue-production-company-1640-5th-street-suite-118-san/index.html</link>
             <guid isPermaLink="false">f147aa40-8ced-4922-b873-17da51715abc</guid>
             <pubDate>Fri, 04 Mar 2016 21:34:36 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/filmogenic/sissi-rada-sunday-from-schnellebuntebilder-on-vimeo/index.html</link>
             <guid isPermaLink="false">954febc6-6325-486e-9d7d-1626f1efdc3a</guid>
             <pubDate>Fri, 04 Dec 2015 00:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SISSI RADA - SUNDAY from schnellebuntebilder on Vimeo.</p>]]></description>
-            <link>https://thegrid.ai/filmogenic/d41ccece-aee0-4a29-80fb-3e016c04f02c/index.html</link>
-            <guid isPermaLink="false">d41ccece-aee0-4a29-80fb-3e016c04f02c</guid>
-            <pubDate>Fri, 04 Dec 2015 00:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
