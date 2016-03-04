@@ -4,7 +4,7 @@
         <description><![CDATA[Are you filmogenic?]]></description>
         <link>https://thegrid.ai/filmogenic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 19:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 21:35:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/filmogenic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Fri, 04 Dec 2015 00:41:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Intrigue (Production Company) 1640 5th Street Suite 118, Santa Monica, CA 90401, United States Phone: 310-598-7000  Fax: (310) 598-2906 Email: tariq.jalil@intri</p>]]></description>
+            <link>https://thegrid.ai/filmogenic/intrigue-production-company-1640-5th-street-suite-118-san/index.html</link>
+            <guid isPermaLink="false">f147aa40-8ced-4922-b873-17da51715abc</guid>
+            <pubDate>Fri, 04 Mar 2016 21:34:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Teaser to my surf video coming soon. #abreakinlisbon]]></title>
-            <description><![CDATA[<article><h1>Teaser to my surf video coming soon. #abreakinlisbon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e9decf88cda8a5c304129a33e975ef18a36d32b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Teaser to my surf video coming soon. #abreakinlisbon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42a25c5d25d61c46e18da7bbd8d3ccbbf206224c.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/_AtW97ya5P/?taken-by=atlantasteadicam</link>
             <guid isPermaLink="false">d13514f3-f60f-45c1-ad79-1e748d886e96</guid>
             <pubDate>Tue, 08 Dec 2015 19:10:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/filmogenic/d41ccece-aee0-4a29-80fb-3e016c04f02c/index.html</link>
             <guid isPermaLink="false">d41ccece-aee0-4a29-80fb-3e016c04f02c</guid>
             <pubDate>Fri, 04 Dec 2015 00:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://vimeo.com/145836531</p>]]></description>
-            <link>https://thegrid.ai/filmogenic/4e7686ad-117f-49d9-833b-4664696133d8/index.html</link>
-            <guid isPermaLink="false">4e7686ad-117f-49d9-833b-4664696133d8</guid>
-            <pubDate>Fri, 04 Dec 2015 00:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
